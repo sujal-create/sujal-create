@@ -97,13 +97,6 @@ Movie Search Application
 * Responsive user interface
 * Dynamic API integration
 
----
-
-## 📊 GitHub Stats
-
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujal-create\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-create\&layout=compact\&theme=tokyonight)
 
 ---
 
