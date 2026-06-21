@@ -103,7 +103,7 @@ Movie Search Application
 ## 📫 Connect With Me
 
 * 📧 Email: [officialsujal7610@gmail.com](mailto:officialsujal7610@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/sujalrai
+* 💼 LinkedIn: https://linkedin.com/in/sujal-rai
 * 🐙 GitHub: https://github.com/sujal-create
 
 ---
